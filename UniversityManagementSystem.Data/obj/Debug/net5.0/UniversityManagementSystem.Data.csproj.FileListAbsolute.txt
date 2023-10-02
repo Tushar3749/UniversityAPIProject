@@ -1,0 +1,15 @@
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\bin\Debug\net5.0\UniversityManagementSystem.Data.deps.json
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\bin\Debug\net5.0\UniversityManagementSystem.Data.dll
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\bin\Debug\net5.0\UniversityManagementSystem.Data.pdb
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\obj\Debug\net5.0\UniversityManagementSystem.Data.csproj.AssemblyReference.cache
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\obj\Debug\net5.0\UniversityManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\obj\Debug\net5.0\UniversityManagementSystem.Data.AssemblyInfoInputs.cache
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\obj\Debug\net5.0\UniversityManagementSystem.Data.AssemblyInfo.cs
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\obj\Debug\net5.0\UniversityManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\obj\Debug\net5.0\UniversityManagementSystem.Data.dll
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\obj\Debug\net5.0\refint\UniversityManagementSystem.Data.dll
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\obj\Debug\net5.0\UniversityManagementSystem.Data.pdb
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\obj\Debug\net5.0\ref\UniversityManagementSystem.Data.dll
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\bin\Debug\net5.0\UniversityManagementSystem.Data.runtimeconfig.json
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\bin\Debug\net5.0\UniversityManagementSystem.Data.runtimeconfig.dev.json
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagementSystem.Data\obj\Debug\net5.0\UniversityManagementSystem.Data.genruntimeconfig.cache

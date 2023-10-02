@@ -1,0 +1,12 @@
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagemetSystem.Service\bin\Debug\net5.0\UniversityManagementSystem.Service.deps.json
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagemetSystem.Service\bin\Debug\net5.0\UniversityManagementSystem.Service.dll
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagemetSystem.Service\bin\Debug\net5.0\UniversityManagementSystem.Service.pdb
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagemetSystem.Service\obj\Debug\net5.0\UniversityManagementSystem.Service.csproj.AssemblyReference.cache
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagemetSystem.Service\obj\Debug\net5.0\UniversityManagementSystem.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagemetSystem.Service\obj\Debug\net5.0\UniversityManagementSystem.Service.AssemblyInfoInputs.cache
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagemetSystem.Service\obj\Debug\net5.0\UniversityManagementSystem.Service.AssemblyInfo.cs
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagemetSystem.Service\obj\Debug\net5.0\UniversityManagementSystem.Service.csproj.CoreCompileInputs.cache
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagemetSystem.Service\obj\Debug\net5.0\UniversityManagementSystem.Service.dll
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagemetSystem.Service\obj\Debug\net5.0\refint\UniversityManagementSystem.Service.dll
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagemetSystem.Service\obj\Debug\net5.0\UniversityManagementSystem.Service.pdb
+C:\Users\LPL\source\repos\UniversityManagementSystem\UniversityManagemetSystem.Service\obj\Debug\net5.0\ref\UniversityManagementSystem.Service.dll
