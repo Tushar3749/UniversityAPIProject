@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LPL\\source\\repos\\UniversityManagementSystem\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj": {}
+    "D:\\Office Projects\\UniversityAPIProject\\UniversityAPIProject\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LPL\\source\\repos\\UniversityManagementSystem\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj": {
+    "D:\\Office Projects\\UniversityAPIProject\\UniversityAPIProject\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LPL\\source\\repos\\UniversityManagementSystem\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj",
+        "projectUniqueName": "D:\\Office Projects\\UniversityAPIProject\\UniversityAPIProject\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj",
         "projectName": "UniversityManagementSystem.Service",
-        "projectPath": "C:\\Users\\LPL\\source\\repos\\UniversityManagementSystem\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj",
+        "projectPath": "D:\\Office Projects\\UniversityAPIProject\\UniversityAPIProject\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj",
         "packagesPath": "C:\\Users\\LPL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LPL\\source\\repos\\UniversityManagementSystem\\UniversityManagemetSystem.Service\\obj\\",
+        "outputPath": "D:\\Office Projects\\UniversityAPIProject\\UniversityAPIProject\\UniversityManagemetSystem.Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LPL\\AppData\\Roaming\\NuGet\\NuGet.Config",

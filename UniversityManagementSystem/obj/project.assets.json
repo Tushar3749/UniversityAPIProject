@@ -1593,6 +1593,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "UniversityManagementSystem.Service/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "Microsoft.EntityFrameworkCore": "5.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UniversityManagementSystem.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UniversityManagementSystem.Service.dll": {}
+        }
       }
     }
   },
@@ -5968,16 +5981,21 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "UniversityManagementSystem.Service/1.0.0": {
+      "type": "project",
+      "path": "../UniversityManagemetSystem.Service/UniversityManagementSystem.Service.csproj",
+      "msbuildProject": "../UniversityManagemetSystem.Service/UniversityManagementSystem.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "D:\\Office Projects\\UniversityAPIProject\\UniversityAPIProject\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj",
       "Microsoft.EntityFrameworkCore >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 5.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 5.0.0",
       "Microsoft.EntityFrameworkCore.Tools >= 5.0.0",
-      "Swashbuckle.AspNetCore >= 5.6.3"
+      "Swashbuckle.AspNetCore >= 5.6.3",
+      "UniversityManagementSystem.Service >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6069,16 +6087,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.309\\RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'D:\\Office Projects\\UniversityAPIProject\\UniversityAPIProject\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "D:\\Office Projects\\UniversityAPIProject\\UniversityAPIProject\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  }
 }

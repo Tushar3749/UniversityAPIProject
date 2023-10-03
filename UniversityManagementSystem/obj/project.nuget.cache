@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "dgSpecHash": "L2AsBXJrihZpnHCgz4FMt7Q0xF0yKHdmem46fv86nGQO8SIzMxkld0ZnKxFjVJbgQWI3TTaZAxRD0ZyaTZuXCw==",
-  "success": false,
+  "dgSpecHash": "rhKlBXaLEDXcIe8J/lBZhhNQHrK7SdrC61JapotHC02GIcb5yJQpo++57h6y8C9+/OlqjptvQWU00c+sdng9Fw==",
+  "success": true,
   "projectFilePath": "D:\\Office Projects\\UniversityAPIProject\\UniversityAPIProject\\UniversityManagementSystem\\UniversityManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LPL\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
@@ -108,15 +108,5 @@
     "C:\\Users\\LPL\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\LPL\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1105",
-      "level": "Error",
-      "message": "Unable to find project information for 'D:\\Office Projects\\UniversityAPIProject\\UniversityAPIProject\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
-      "libraryId": "D:\\Office Projects\\UniversityAPIProject\\UniversityAPIProject\\UniversityManagemetSystem.Service\\UniversityManagementSystem.Service.csproj",
-      "targetGraphs": [
-        "net5.0"
-      ]
-    }
-  ]
+  "logs": []
 }
